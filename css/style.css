@@ -82,17 +82,22 @@ header{
     
 }
 .main-content{
-    padding:0px, 20px;
+    
     
 }
 
 .blog-img{
     margin-bottom: 10px;
+    padding:0px, 20px;
     
 }
 
 .main-content > span{
-  order: 4;
+  
+    
+}
+
+.main-text{
     
 }
 
